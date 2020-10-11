@@ -33,9 +33,9 @@
 </table>
 
 
-> Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf)
-> Made with :heart:
-> V 0.1.0
+> Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
+> Made with :heart: <br>
+> V 0.1.1 <br>
 <!--
 **LonoxX/LonoxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
