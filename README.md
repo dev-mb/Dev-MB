@@ -4,13 +4,13 @@
 ## 📈 SimulazotMB´s Stats:
 [![SimulatorMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimulatorMB&show_icons=true)](https://github.com/SimulatorMB)
 
-
+<!--
 <a href="https://github.com/PNPanda-Network/Coming-Soon-Template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Coming-Soon-Template" />
 </a>
 <a href="https://github.com/PNPanda-Network/Discord-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Discord-Bot" />
-</a>
+</a>-->
 <br /><br />
 
 ## 🐼 Panda-Network Team
@@ -35,7 +35,7 @@
 
 > Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
 > Made with :heart: <br>
-> V 0.1.1 <br>
+> V 0.1.2 <br>
 <!--
 **LonoxX/LonoxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
