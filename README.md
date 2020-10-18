@@ -35,11 +35,11 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/SimulatorMB"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" radius="50%" alt="SimulatorMB"/><br />
+      <a href="https://github.com/SimulatorMB"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" style="border-radius: 50%;" alt="SimulatorMB"/><br />
         <sub><b><a href="https://github.com/SimulatorMB">SimulatorMB</b></a></sub><br />Moonforty7 | Ceo 
     </td>
     <td align="center">
-      <a href="https://github.com/matthewrabiega"><img src="https://avatars3.githubusercontent.com/u/69539728?s=96&v=4" width="100px;" alt="matthewrabiega"/></a><br />
+      <a href="https://github.com/matthewrabiega"><img src="https://avatars3.githubusercontent.com/u/69539728?s=96&v=4" width="100px;" style="border-radius: 50%;" alt="matthewrabiega"/></a><br />
         <sub><b><a href="https://github.com/matthewrabiega">Matthew Rabiega</b></a></sub><br />Moonforty7 | Ceo 
     </td>
   </tr>
