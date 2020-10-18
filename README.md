@@ -11,7 +11,7 @@
 <a href="https://github.com/PNPanda-Network/Discord-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Discord-Bot" />
 </a>-->
-<br /><br />
+<br />
 
 ## My Team´s
 
@@ -19,15 +19,15 @@
   <tr>
     <td align="center">
       <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX"/></a><br />
-        <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br />Panda-Network Projektleitung
+        <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br />Panda-Network | Projektleitung
     </td>
     <td align="center">
       <a href="https://github.com/vloggergil"><img src="https://avatars3.githubusercontent.com/u/23207852?v=4" width="100px;" alt="vloggergil"/><br />
-        <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br />Panda-Network Projektleitung
+        <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br />Panda-Network | Projektleitung
     </td>
     <td align="center">
       <a href="https://github.com/SimulatorMB"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" alt="SimulatorMB"/><br />
-        <sub><b><a href="https://github.com/SimulatorMB">SimulatorMB</b></a></sub><br />Panda-Network Developer
+        <sub><b><a href="https://github.com/SimulatorMB">SimulatorMB</b></a></sub><br />Panda-Network | Developer
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/SimulatorMB"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" alt="SimulatorMB"/><br />
+      <a href="https://github.com/SimulatorMB"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" radius="50%" alt="SimulatorMB"/><br />
         <sub><b><a href="https://github.com/SimulatorMB">SimulatorMB</b></a></sub><br />Moonforty7 | Ceo 
     </td>
     <td align="center">
