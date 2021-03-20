@@ -18,7 +18,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/dev-mb"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" alt="Dev-MB"/><br />
-        <sub><b><a href="https://github.com/dev-mb">Dev-MB</b></a></sub><br />Developer
+        <sub><b><a href="https://github.com/dev-mb">Dev-MB</b></a></sub><br />Projekt Ass. | Dev
     </td>
   </tr>
 </table>
