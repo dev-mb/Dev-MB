@@ -24,7 +24,6 @@
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="50px" src="https://cdn.mbdev.cc/cdn/github/JS.png" /></a>
 <a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="50px" src="https://cdn.mbdev.cc/cdn/github/PHP.png" /></a>
 <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank"><img align="left" alt="C#" width="50px" src="https://cdn.mbdev.cc/cdn/github/CSHARP.png" /></a>
-
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="50px" src="https://cdn.mbdev.cc/cdn/github/git.png"/></a>
 <a href="https://github.com/dev-mb/" target="_blank"> <img align="left" alt="GitHub" width="50px" src="https://cdn.mbdev.cc/cdn/github/github.png"/></a>
 <br />
