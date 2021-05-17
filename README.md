@@ -2,7 +2,7 @@
 
 💼&nbsp;&nbsp;Founder by <a href="https://dev-mb.dev">Dev-MB.dev</a>
 
-## 📈 LonoxX Stats:
+## 📈 Dev-MB Stats:
 
 [![Dev-MB's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mb&show_icons=true)](https://github.com/dev-mb)
 
