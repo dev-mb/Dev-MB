@@ -2,8 +2,6 @@
 
 💼&nbsp;&nbsp;Founder by <a href="https://dev-mb.dev">Dev-MB.dev</a>
 
-<br>
-
 ## 📈 LonoxX Stats:
 
 [![Dev-MB's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mb&show_icons=true)](https://github.com/dev-mb)
@@ -18,7 +16,7 @@
 
 <br>
 <br>
-<br
+<br>
 
 ### 🛠️ Languages and Tools:
 
@@ -30,6 +28,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.mbdev.cc/cdn/github/git.png"/></a>
 <a href="https://github.com/dev-mb/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.mbdev.cc/cdn/github/github.png"/></a>
 <br />
+<br />
 
 ### 💾 Softwares:
 
@@ -38,6 +37,8 @@
 <a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord" width="36px" src="https://cdn.mbdev.cc/cdn/github/discord.png"/></a>
 <a href="https://www.teamspeak.com/" target="_blank"> <img align="left" alt="TeamSpeak" width="36px" src="https://cdn.mbdev.cc/cdn/github/teamspeak.png"/></a>
 <a href="https://www.spotify.com/" target="_blank"> <img align="left" alt="Spotify" width="36px" src="https://cdn.mbdev.cc/cdn/github/spotify.png"/></a>
+<br />
+<br />
 <br />
 
 
