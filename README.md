@@ -57,11 +57,11 @@
     <td align="center">
       <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="vloggergil"/><br/>
         <sub><b><a href="https://github.com/matthewrabiega">Matthew</b></a></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a>
-    </td>
-		<br>
-    
+    </td>    
   </tr>
 </table>
+
+<br>
 
 > Made with :heart: <br>
 > V 0.3 <br>
