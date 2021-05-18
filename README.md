@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi 👋
 
-💼&nbsp;&nbsp;Founder by <a href="https://dev-mb.dev">Dev-MB.dev</a>
+💼&nbsp;&nbsp; Founder by <a href="https://dev-mb.dev">Dev-MB.dev</a><br>
+🐼&nbsp;&nbsp; Project Assistant by <a href="https://panda-network.de">Panda-Network.de</a>
+
+📧&nbsp;&nbsp; Du hast eine Idee? Denkst ich kann das? dan Schreib mir: 	<a href="mailto:admin@dev-mb.dev">admin@dev-mb.dev</a>
 
 ## 📈 Dev-MB Stats:
 
@@ -25,18 +28,29 @@
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="36px" src="https://cdn.mbdev.cc/cdn/github/JS.png" /></a>
 <a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="36px" src="https://cdn.mbdev.cc/cdn/github/PHP.png" /></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"><img align="left" alt="C#" width="36px" src="https://cdn.mbdev.cc/cdn/github/CSHARP.png" /></a>
+<a href="https://www.w3schools.com/jquery/" target="_blank"><img align="left" alt="jquery" width="36px" src="https://cdn.mbdev.cc/cdn/github/jquery.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.mbdev.cc/cdn/github/git.png"/></a>
 <a href="https://github.com/dev-mb/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.mbdev.cc/cdn/github/github.png"/></a>
 <br />
 <br />
 
-### 💾 Softwares:
+### 🖥️ Softwares/Libraries:
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.mbdev.cc/cdn/github/vscode.png"/></a>
 <a href="https://visualstudio.microsoft.com/de/" target="_blank"> <img align="left" alt="visualstudio" width="36px" src="https://cdn.mbdev.cc/cdn/github/vs.png"/></a>
+<a href="https://getbootstrap.com" target="_blank"> <img align="left" alt="GetBootstrap" width="36px" src="https://cdn.mbdev.cc/cdn/github/getbootstrap.png"/></a>
+<a href="https://fontawesome.com" target="_blank"> <img align="left" alt="Fontawesome" width="36px" src="https://cdn.mbdev.cc/cdn/github/fontawesome.png"/></a>
 <a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord" width="36px" src="https://cdn.mbdev.cc/cdn/github/discord.png"/></a>
 <a href="https://www.teamspeak.com/" target="_blank"> <img align="left" alt="TeamSpeak" width="36px" src="https://cdn.mbdev.cc/cdn/github/teamspeak.png"/></a>
 <a href="https://www.spotify.com/" target="_blank"> <img align="left" alt="Spotify" width="36px" src="https://cdn.mbdev.cc/cdn/github/spotify.png"/></a>
+<br />
+<br />
+
+### 💡 Running/Soooon Projects:
+
+<a href="https://altv.mp/#/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.mbdev.cc/cdn/altv.svg"/></a>
+<a href="https://dev-mb.dev/" target="_blank"> <img align="left" alt="Discord-Bot" width="36px" src="https://cdn.mbdev.cc/cdn/github/mbbot.png"/></a>
+<a href="https://rage.mp" target="_blank"> <img align="left" alt="RageMP" width="36px" src="https://cdn.mbdev.cc/cdn/github/ragemp.png"/></a>
 <br />
 <br />
 <br />
@@ -63,6 +77,7 @@
 
 <br>
 
-> Made with :heart: <br>
-> V 0.3 <br>
-> © <a hreft="https://dev-mb.dev">dev-mb.dev</a>
+> V 0.5 || Made with ❤️ <br>
+> ###### *PD: bester KEKW-Developer*
+
+© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo_500x500.png" style="vertical-align: middle;">
