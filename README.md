@@ -78,6 +78,6 @@
 <br>
 
 > V 0.5 || Made with ❤️ <br>
-> ###### *PD: bester KEKW-Developer*
+> ###### *PS: bester KEKW-Developer*
 
 © <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo_500x500.png" style="vertical-align: middle;">
