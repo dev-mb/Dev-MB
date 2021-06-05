@@ -3,7 +3,7 @@
 💼&nbsp;&nbsp; Founder by <a href="https://dev-mb.dev">Dev-MB.dev</a><br>
 🐼&nbsp;&nbsp; Project Assistant by <a href="https://panda-network.de">Panda-Network.de</a>
 
-📧&nbsp;&nbsp; Du hast eine Idee? Denkst ich kann das? dan Schreib mir: 	<a href="mailto:admin@dev-mb.dev">admin@dev-mb.dev</a>
+📧&nbsp;&nbsp; Du hast eine Idee? Denkst ich kann das? dan Schreib mir: 	<a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a>
 
 ## 📈 Dev-MB Stats:
 
