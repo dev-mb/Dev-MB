@@ -47,7 +47,6 @@
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="36px" src="https://cdn.mbdev.cc/cdn/github/HTML5.png" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="36px" src="https://cdn.mbdev.cc/cdn/github/CSS3.png" /></a>
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="36px" src="https://cdn.mbdev.cc/cdn/github/JS.png" /></a>
-    <a href="https://www.w3schools.com/cs/" target="_blank"><img align="left" alt="TS" width="36px" src="https://cdn.mbdev.cc/cdn/github/CSHARP.png" /></a>
   <a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="36px" src="https://cdn.mbdev.cc/cdn/github/PHP.png" /></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img align="left" alt="C#" width="36px" src="https://cdn.mbdev.cc/cdn/github/CSHARP.png" /></a>
   <a href="https://www.w3schools.com/jquery/" target="_blank"><img align="left" alt="jquery" width="36px" src="https://cdn.mbdev.cc/cdn/github/jquery.png" /></a>
