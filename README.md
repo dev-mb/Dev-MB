@@ -104,7 +104,7 @@
 <br>
 
 > Made with ❤️ || V 0.6 <br>
-> 👀&nbsp; Inspired - <a href="https://github.com/NoelBank" target="_blank">NoelBank</a><br>
+> 👀&nbsp; he inspired with me - <a href="https://github.com/NoelBank" target="_blank">NoelBank</a><br>
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
 
 © <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo_500x500.png" style="vertical-align: middle;">
