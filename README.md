@@ -75,7 +75,6 @@
 <br>
   <a href="https://altv.mp/#/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.mbdev.cc/cdn/altv.svg"/></a>
   <a href="https://dev-mb.dev/" target="_blank"> <img align="left" alt="Discord-Bot" width="36px" src="https://cdn.mbdev.cc/cdn/github/mbbot.png"/></a>
-  <a href="https://rage.mp" target="_blank"> <img align="left" alt="RageMP" width="36px" src="https://cdn.mbdev.cc/cdn/github/ragemp.png"/></a>
 </details>
 <br />
 <br />
