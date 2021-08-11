@@ -1,4 +1,4 @@
-![](https://img.shields.io/uptimerobot/ratio/m783740651-b53044cb8024d59d410963b9?label=dev-mb.dev&style=plastic)
+![](https://img.shields.io/uptimerobot/ratio/m783740651-b53044cb8024d59d410963b9?label=dev-mb.dev&style=flat)
 ![](https://komarev.com/ghpvc/?username=dev-mb&color=0d1627)
 ![](https://hit.yhype.me/github/profile?user_id=50833616)
 ### Hi 👋
