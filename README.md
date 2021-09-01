@@ -21,7 +21,7 @@
 <br>
 
 <a href="https://github.com/dev-mb/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=default&theme=dark" />
 </a>
 
 <br>
