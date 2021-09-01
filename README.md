@@ -20,6 +20,13 @@
 <br>
 <br>
 
+<a href="https://github.com/dev-mb/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=compact&theme=dark" />
+</a>
+
+<br>
+<br>
+
 <a href="https://github.com/dev-mb/altV-mlo_stream">
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mb&repo=altV-mlo_stream&theme=dark" />
 </a>
