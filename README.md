@@ -3,7 +3,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=50833616)
 ### Hi 👋
 
-👀&nbsp;&nbsp; Application developer. With experience in PHP, TypeScript, ...
+👨‍💻&nbsp;&nbsp; Developer. With experience in PHP, TypeScript and more ...
 
 🐼&nbsp;&nbsp; Project Assistant by <a href="https://panda-network.de">Panda-Network.de</a>
 
@@ -52,27 +52,28 @@
 <br>
 
 <details open>
-  <summary> 🛠️ Languages and Tools: </summary>
+  <summary> 🛠️ Languages/Libraries: </summary>
 <br>
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="36px" src="https://cdn.mbdev.cc/cdn/github/HTML5.png" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="36px" src="https://cdn.mbdev.cc/cdn/github/CSS3.png" /></a>
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="36px" src="https://cdn.mbdev.cc/cdn/github/JS.png" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img align="left" alt="SASS" width="36px" src="https://cdn.mbdev.cc/cdn/github/SASS.png" /></a>
   <a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="36px" src="https://cdn.mbdev.cc/cdn/github/PHP.png" /></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img align="left" alt="C#" width="36px" src="https://cdn.mbdev.cc/cdn/github/CSHARP.png" /></a>
   <a href="https://www.w3schools.com/jquery/" target="_blank"><img align="left" alt="jquery" width="36px" src="https://cdn.mbdev.cc/cdn/github/jquery.png" /></a>
-  <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.mbdev.cc/cdn/github/git.png"/></a>
-  <a href="https://github.com/dev-mb/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.mbdev.cc/cdn/github/github.png"/></a>
+  <a href="https://getbootstrap.com" target="_blank"> <img align="left" alt="GetBootstrap" width="36px" src="https://cdn.mbdev.cc/cdn/github/getbootstrap.png"/></a>
+  <a href="https://fontawesome.com" target="_blank"> <img align="left" alt="Fontawesome" width="36px" src="https://cdn.mbdev.cc/cdn/github/fontawesome.png"/></a>
 </details>
 <br />
 <br />
 
 <details open>
-  <summary> 🖥️ Softwares/Libraries: </summary>
+  <summary> 🖥️ Softwares/Tools: </summary>
 <br>
   <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.mbdev.cc/cdn/github/vscode.png"/></a>
   <a href="https://visualstudio.microsoft.com/de/" target="_blank"> <img align="left" alt="visualstudio" width="36px" src="https://cdn.mbdev.cc/cdn/github/vs.png"/></a>
-  <a href="https://getbootstrap.com" target="_blank"> <img align="left" alt="GetBootstrap" width="36px" src="https://cdn.mbdev.cc/cdn/github/getbootstrap.png"/></a>
-  <a href="https://fontawesome.com" target="_blank"> <img align="left" alt="Fontawesome" width="36px" src="https://cdn.mbdev.cc/cdn/github/fontawesome.png"/></a>
+  <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.mbdev.cc/cdn/github/git.png"/></a>
+  <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.mbdev.cc/cdn/github/github.png"/></a>
   <a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord" width="36px" src="https://cdn.mbdev.cc/cdn/github/discord.png"/></a>
   <a href="https://www.teamspeak.com/" target="_blank"> <img align="left" alt="TeamSpeak" width="36px" src="https://cdn.mbdev.cc/cdn/github/teamspeak.png"/></a>
   <a href="https://www.spotify.com/" target="_blank"> <img align="left" alt="Spotify" width="36px" src="https://cdn.mbdev.cc/cdn/github/spotify.png"/></a>
@@ -81,17 +82,16 @@
 <br />
 
 <details open>
-  <summary> 💡 Running/Soooon Projects: </summary>
+  <summary> 💡 Running Projects: </summary>
 <br>
-  <a href="https://altv.mp/#/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.mbdev.cc/cdn/altv.svg"/></a>
-  <a href="https://dev-mb.dev/" target="_blank"> <img align="left" alt="Discord-Bot" width="36px" src="https://cdn.mbdev.cc/cdn/github/mbbot.png"/></a>
+  <a href="https://altv.mp/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.mbdev.cc/cdn/altv.svg"/></a>
 </details>
 <br />
 <br />
 <br />
 
 
-## 🕵️ My Team | Friends/Colleagues
+## 🕵️ Colleagues | Friends
 
 <table>
   <tr>
@@ -104,16 +104,19 @@
         <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br /><a href="https://panda-network.de">Panda-Network.de</a>
     </td>
     <td align="center">
-      <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="vloggergil"/><br/>
+      <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
         <sub><b><a href="https://github.com/matthewrabiega">Matthew</b></a></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a>
-    </td>    
+    </td>
+    <td align="center">
+      <a href="https://github.com/NoelBank"><img src="https://avatars.githubusercontent.com/u/24194246?v=4" width="100px;" alt="NoelBank"/><br/>
+        <sub><b><a href="https://github.com/NoelBank">Noel</b></a></sub><br /><a href="https://nbank.dev">NBank.dev</a>
+    </td>  
   </tr>
 </table>
 
 <br>
 
-> Made with ❤️ || V 0.6 <br>
-> 👀&nbsp; he inspired by me - <a href="https://github.com/NoelBank" target="_blank">NoelBank</a><br>
+> Made with ❤️ || V 0.8 <br>
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
 
-© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo_500x500.png" style="vertical-align: middle;">
+© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg" style="vertical-align: middle;">
