@@ -7,15 +7,19 @@
 
 🐼&nbsp;&nbsp; Project Assistant by <a href="https://panda-network.de">Panda-Network.de</a>
 
+⚙️&nbsp;&nbsp; Mod-Verwaltung by <a href="https://twitch.tv/csruna">CSRuna</a>
+
+🌠&nbsp;&nbsp; Leader/Coach by <a href="https://veoesports.de">Veo eSports</a>
+
 ## 📈 Dev-MB Stats:
 
 <a href="https://github.com/dev-mb/">
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mb&theme=dark&count_private=true&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/dev-mb/">
+<!-- <a href="https://github.com/dev-mb/">
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-mb&show_icons=true&theme=dark&count_private=true&layout=compact" />
-</a>
+</a> -->
 
 <br>
 <br>
@@ -50,6 +54,15 @@
 </details>
 <br>
 <br>
+
+<details open>
+  <summary> 👨‍💻 Profile: </summary>
+<br>
+  <a href="https://www.linkedin.com/in/moritz-bahrmann" target="_blank"><img align="left" alt="Linkedin Profile" width="36px" src="https://cdn.mbdev.cc/cdn/github/linkedin.png" /></a>
+  <a href="https://twitter.com/SimulatorMB" target="_blank"><img align="left" alt="Twitter" width="36px" src="https://cdn.mbdev.cc/cdn/github/twitter.png" /></a>
+</details>
+<br />
+<br />
 
 <details open>
   <summary> 🛠️ Languages/Libraries: </summary>
@@ -91,32 +104,32 @@
 <br />
 
 
-## 🕵️ Colleagues | Friends
+## 👾 Friends
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX"/></a><br/>
-        <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br /><a href="https://panda-network.de">Panda-Network.de</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vloggergil"><img src="https://avatars3.githubusercontent.com/u/23207852?v=4" width="100px;" alt="vloggergil"/><br/>
-        <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br /><a href="https://panda-network.de">Panda-Network.de</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
-        <sub><b><a href="https://github.com/matthewrabiega">Matthew</b></a></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a>
+        <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br /><a href="https://panda-network.de">Panda-Network.de</a></br><small>Backend Developer</small>
     </td>
     <td align="center">
       <a href="https://github.com/NoelBank"><img src="https://avatars.githubusercontent.com/u/24194246?v=4" width="100px;" alt="NoelBank"/><br/>
-        <sub><b><a href="https://github.com/NoelBank">Noel</b></a></sub><br /><a href="https://nbank.dev">NBank.dev</a>
-    </td>  
+        <sub><b><a href="https://github.com/NoelBank">Noel</b></a></sub><br /><a href="https://nbank.dev">NBank.dev</a></br><small>Frontend Developer</small>
+    </td>
+    <td align="center">
+      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" alt="NoelBank"/><br/>
+        <sub><b><a href="https://github.com/NoelBank">Runa</b></a></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
+    </td>
+    <td align="center">
+      <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
+        <sub><b><a href="https://github.com/matthewrabiega">Matthew</b></a></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
+    </td>
   </tr>
 </table>
 
 <br>
 
-> Made with ❤️ || V 0.8 <br>
+> Made with ❤️ || V 0.9 <br>
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
 
 © <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg" style="vertical-align: middle;">
