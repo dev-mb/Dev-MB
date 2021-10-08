@@ -3,7 +3,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=50833616)
 ### Hi 👋
 
-👨‍💻&nbsp;&nbsp; Developer. With experience in PHP, TypeScript and more ...
+👨‍💻&nbsp;&nbsp; Full-Stack Developer. With experience in PHP, TypeScript, C# and more ...
 
 🐼&nbsp;&nbsp; Project Assistant by <a href="https://panda-network.de">Panda-Network.de</a>
 
