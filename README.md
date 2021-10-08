@@ -114,7 +114,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/NoelBank"><img src="https://avatars.githubusercontent.com/u/24194246?v=4" width="100px;" alt="NoelBank"/><br/>
-        <sub><b><a href="https://github.com/NoelBank">Noel</b></a></sub><br /><a href="https://nbank.dev">NBank.dev</a></br><small>Frontend Developer</small>
+        <sub><b><a href="https://github.com/NoelBank">Noel</b></a></sub><br /><a href="https://nbank.dev">NBank.dev</a></br><small>Application Developer</small>
     </td>
     <td align="center">
       <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" alt="NoelBank"/><br/>
