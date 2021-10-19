@@ -110,19 +110,19 @@
   <tr>
     <td align="center">
       <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX"/></a><br/>
-        <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br /><a href="https://panda-network.de">Panda-Network.de</a></br><small>Backend Developer</small>
+        <sub><b><a href="https://github.com/LonoxX">LonoxX</a></b></sub><br /><a href="https://panda-network.de">Panda-Network.de</a></br><small>Backend Developer</small>
     </td>
     <td align="center">
       <a href="https://github.com/NoelBank"><img src="https://avatars.githubusercontent.com/u/24194246?v=4" width="100px;" alt="NoelBank"/><br/>
-        <sub><b><a href="https://github.com/NoelBank">Noel</b></a></sub><br /><a href="https://nbank.dev">NBank.dev</a></br><small>Application Developer</small>
+        <sub><b><a href="https://github.com/NoelBank">Noel</a></b></sub><br /><a href="https://nbank.dev">NBank.dev</a></br><small>Application Developer</small>
     </td>
     <td align="center">
       <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" alt="NoelBank"/><br/>
-        <sub><b><a href="https://github.com/NoelBank">Runa</b></a></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
+        <sub><b><a href="https://github.com/NoelBank">Runa</a></b></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
     </td>
     <td align="center">
       <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
-        <sub><b><a href="https://github.com/matthewrabiega">Matthew</b></a></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
+        <sub><b><a href="https://github.com/matthewrabiega">Matthew</a></b></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
     </td>
   </tr>
 </table>
