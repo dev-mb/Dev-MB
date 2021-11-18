@@ -94,11 +94,11 @@
 <br />
 <br />
 
-<details open>
+<!-- <details open>
   <summary> 💡 Running Projects: </summary>
 <br>
   <a href="https://altv.mp/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.mbdev.cc/cdn/altv.svg"/></a>
-</details>
+</details> -->
 <br />
 <br />
 <br />
