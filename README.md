@@ -121,6 +121,10 @@
         <sub><b><a href="https://github.com/NoelBank">Runa</a></b></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
     </td>
     <td align="center">
+      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.discordapp.com/avatars/349283488568049664/30517b40f7c6f16fbb847ba592c03d3b.png?size=128" width="100px;" alt="laura-christin"/><br/>
+        <sub><b><a href="https://github.com/matthewrabiega">Laura</a></b></sub><br /><a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
+    </td>
+    <td align="center">
       <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
         <sub><b><a href="https://github.com/matthewrabiega">Matthew</a></b></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
     </td>
@@ -132,4 +136,6 @@
 > Made with ❤️ || V 0.9 <br>
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
 
-© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg" style="vertical-align: middle;">
+<hr>
+
+© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg" style="vertical-align: middle;">
