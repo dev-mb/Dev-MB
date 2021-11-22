@@ -121,7 +121,7 @@
         <sub><b><a href="https://github.com/NoelBank">Runa</a></b></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.discordapp.com/avatars/349283488568049664/30517b40f7c6f16fbb847ba592c03d3b.png?size=128" width="100px;" alt="laura-christin"/><br/>
+      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.discordapp.com/avatars/349283488568049664/c2b9de4d133f300d8ced1535e9464f24.png?size=128" width="100px;" alt="laura-christin"/><br/>
         <sub><b><a href="https://github.com/matthewrabiega">Laura</a></b></sub><br /><a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
     </td>
     <td align="center">
@@ -133,7 +133,7 @@
 
 <br>
 
-> Made with ❤️ || V 0.9 <br>
+> Made with ❤️ || V 0.9.2 <br>
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
 
 <hr>
