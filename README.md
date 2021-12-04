@@ -117,8 +117,8 @@
         <sub><b><a href="https://github.com/NoelBank">Noel</a></b></sub><br /><a href="https://nbank.dev">NBank.dev</a></br><small>Application Developer</small>
     </td>
     <td align="center">
-      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" alt="NoelBank"/><br/>
-        <sub><b><a href="https://github.com/NoelBank">Runa</a></b></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
+      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" alt="CSRuna"/><br/>
+        <sub><b><a href="https://github.com/csruna">Runa</a></b></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.discordapp.com/avatars/349283488568049664/c2b9de4d133f300d8ced1535e9464f24.png?size=128" width="100px;" alt="laura-christin"/><br/>
@@ -133,7 +133,7 @@
 
 <br>
 
-> Made with ❤️ || V 0.9.3 <br>
+> Made with ❤️ || V 0.9.4 <br>
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
 
 <hr>
