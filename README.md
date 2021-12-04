@@ -122,7 +122,7 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.discordapp.com/avatars/349283488568049664/c2b9de4d133f300d8ced1535e9464f24.png?size=128" width="100px;" alt="laura-christin"/><br/>
-        <sub><b><a href="https://github.com/matthewrabiega">Laura</a></b></sub><br /><a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
+        <sub><b>Laura</b></sub><br /><a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
     </td>
     <td align="center">
       <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
