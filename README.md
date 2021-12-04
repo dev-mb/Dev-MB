@@ -133,7 +133,7 @@
 
 <br>
 
-> Made with ❤️ || V 0.9.2 <br>
+> Made with ❤️ || V 0.9.3 <br>
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
 
 <hr>
