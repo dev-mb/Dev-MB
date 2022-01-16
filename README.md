@@ -1,25 +1,27 @@
-[![](https://img.shields.io/uptimerobot/ratio/m783740651-b53044cb8024d59d410963b9?label=dev-mb.dev&style=flat)](https://mbdev.cc/status)
+[![Header](https://cdn.mbdev.cc/cdn/mb/banner.png "Header")](https://dev-mb.dev/)
+
+<hr>
+
 [![](https://komarev.com/ghpvc/?username=dev-mb&color=0d1627)](https://mbdev.cc/github)
 ![](https://hit.yhype.me/github/profile?user_id=50833616)
-### Hi 👋
+<a href="https://www.linkedin.com/in/moritz-bahrmann" target="_blank"><img align="left" alt="Linkedin Profile" width="25rem" src="https://cdn.mbdev.cc/cdn/github/linkedin.png" /></a>
+<a href="https://twitter.com/SimulatorMB" target="_blank"><img align="left" alt="Twitter" width="25rem" src="https://cdn.mbdev.cc/cdn/github/twitter.png" /></a>
+
+# Hello, I'm Moritz! 👋
 
 👨‍💻&nbsp;&nbsp; Full-Stack Developer. With experience in PHP, TypeScript, C# and more ...
 
 🐼&nbsp;&nbsp; Project Assistant by <a href="https://panda-network.de">Panda-Network.de</a>
 
 ⚙️&nbsp;&nbsp; Mod-Verwaltung by <a href="https://twitch.tv/csruna">CSRuna</a>
+<br>
+<br>
 
-🌠&nbsp;&nbsp; Leader/Coach by <a href="https://veoesports.de">Veo eSports</a>
-
-## 📈 Dev-MB Stats:
+## 📈 My Stats:
 
 <a href="https://github.com/dev-mb/">
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mb&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="150rem"  align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mb&theme=dark&count_private=true&include_all_commits=true" />
 </a>
-
-<!-- <a href="https://github.com/dev-mb/">
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-mb&show_icons=true&theme=dark&count_private=true&layout=compact" />
-</a> -->
 
 <br>
 <br>
@@ -54,15 +56,6 @@
 </details>
 <br>
 <br>
-
-<details open>
-  <summary> 👨‍💻 Profile: </summary>
-<br>
-  <a href="https://www.linkedin.com/in/moritz-bahrmann" target="_blank"><img align="left" alt="Linkedin Profile" width="36px" src="https://cdn.mbdev.cc/cdn/github/linkedin.png" /></a>
-  <a href="https://twitter.com/SimulatorMB" target="_blank"><img align="left" alt="Twitter" width="36px" src="https://cdn.mbdev.cc/cdn/github/twitter.png" /></a>
-</details>
-<br />
-<br />
 
 <details open>
   <summary> 🛠️ Languages/Libraries: </summary>
@@ -100,8 +93,6 @@
   <a href="https://altv.mp/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.mbdev.cc/cdn/altv.svg"/></a>
 </details> -->
 <br />
-<br />
-<br />
 
 
 ## 👾 Friends
@@ -122,7 +113,8 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.discordapp.com/avatars/349283488568049664/c2b9de4d133f300d8ced1535e9464f24.png?size=128" width="100px;" alt="laura-christin"/><br/>
-        <sub><b><a href="https://www.instagram.com/lauras_stern_sternenfotografie/">Laura</a></b></sub><br /><a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
+        <sub><b><a href="https://www.instagram.com/lauras_stern_sternenfotografie/">Laura</a></b></sub><br />
+        <a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
     </td>
     <td align="center">
       <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
@@ -131,10 +123,10 @@
   </tr>
 </table>
 
-<br>
+</br>
 
-> Made with ❤️ || V 0.9.4 <br>
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
+> Made with ❤️ || V 1.0 <br>
 
 <hr>
 
