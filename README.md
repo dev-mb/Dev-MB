@@ -23,7 +23,7 @@
               js: ['JS', 'jQuery'],
               backend: ['PHP'],
           },
-          frameworks: ['Bootstrap', ],
+          frameworks: ['Bootstrap', 'AdminLTE'],
           ide: ['VSCode', 'VS'],
           databases: ['mongoDB', 'MySql', 'mariaDB'],
           misc: ['Discord', 'Spotify', 'Git', 'Adobe', 'TeamSpeak', 'Markdown', 'Bootstrap', 'Font Awesome']
