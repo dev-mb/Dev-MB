@@ -15,13 +15,13 @@
   const dev_mb = {
       pronouns: 'Er',
       code: ['HTML5', 'CSS3', 'JS', 'PHP', 'CHSAHRP'],
-      askMeAbout: ['tech', 'web dev', 'dev', 'server', 'photography', 'videography', 'sound technique', 'fire🚒', 'rescue🚑'],
+      learning: ['NodeJS', 'ReactJS'],
+      askMeAbout: ['tech', 'web', 'dev', 'server', 'photography', 'videography', 'sound-technique', 'fire', 'rescue'],
       technologies: {
           web: {
-              base: ['HTML5'],
-              css: ['CSS3', 'SASS', 'SCSS'],
-              js: ['JS', 'jQuery'],
-              backend: ['PHP'],
+              base: 'HTML5',
+              style: ['CSS3', 'SASS', 'SCSS'],
+              backend: ['PHP', 'JS', 'jQuery'],
           },
           frameworks: ['Bootstrap', 'AdminLTE'],
           ide: ['VSCode', 'VS'],
@@ -29,16 +29,15 @@
           misc: ['Discord', 'Spotify', 'Git', 'Adobe', 'TeamSpeak', 'Markdown', 'Bootstrap', 'Font Awesome']
       },
       twitch: {
-        stream: 'SimulatorMB',
-        mod: ['csruna', 'gaminghell_', 'proteinpinguin', 'lonoxx_'],
-        editor: ['csruna', 'proteinpinguin', 'lonoxx_'],
+          stream: 'simulatormb',
+          mod: ['csruna', 'gaminghell_', 'proteinpinguin', 'lonoxx_'],
+          editor: ['csruna', 'proteinpinguin', 'lonoxx_'],
       },
       organization: {
-        dev_mb: 'Entwickler',
-        panda_network: 'Projekt-Assistent',
-        Unleashed_Life: ['Projektmanagemnt', 'Gamedesign'],
+          dev_mb: 'Entwickler',
+          panda_network: ['Projekt-Assistent', 'Developer'],
+          Unleashed_Life: ['Projektmanagemnt', 'Gamedesign'],
       },
-      architecture: ['One-Pager', 'Full-Stack Pages', '...more'],
       funFact: 'Es gibt zwei Möglichkeiten, fehlerfreie Programme zu schreiben; nur die dritte funktioniert'
   };
 ```
@@ -48,9 +47,9 @@
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=dev-mb&theme=dark&count_private=true&include_all_commits=true" />
 </a>
 
-<!-- <a href="https://github.com/dev-mb/">
+<a href="https://github.com/dev-mb/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=compact&theme=dark" />
-</a> -->
+</a>
 
 <br>
 <br>
@@ -64,12 +63,6 @@
     <li><b>Website/Backend for</b> <a href="https://kaffeehaus-erbach.de">Kaffehaus Erbach</a>, Stil eines traditionellen Wiener Kaffeehauses: <a href="https://kaffeehaus-erbach.de">Website</a></li>
  </ul>
 </details>
-
-<!-- <details open>
-  <summary> 💡 Running Projects: </summary>
-<br>
-  <a href="https://altv.mp/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.mbdev.cc/cdn/altv.svg"/></a>
-</details> -->
 <br />
 
 
@@ -106,8 +99,8 @@
 [![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
 
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
-> Made with ❤️ || V 1.0 <br>
+> Made with ❤️ || V 1.0.1 <br>
 
 <hr>
 
-© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg" style="vertical-align: middle;">
+© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg">
