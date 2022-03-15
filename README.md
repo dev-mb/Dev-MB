@@ -15,7 +15,6 @@
   const dev_mb = {
       pronouns: 'Er',
       code: ['HTML5', 'CSS3', 'JS', 'PHP', 'CHSAHRP'],
-      learning: ['NodeJS', 'ReactJS'],
       askMeAbout: ['tech', 'web', 'dev', 'server', 'photography', 'videography', 'sound-technique', 'fire', 'rescue'],
       technologies: {
           web: {
@@ -36,9 +35,9 @@
       organization: {
           dev_mb: 'Entwickler',
           panda_network: ['Projekt-Assistent', 'Developer'],
-          Unleashed_Life: ['Projektmanagemnt', 'Gamedesign'],
       },
-      funFact: 'Es gibt zwei Möglichkeiten, fehlerfreie Programme zu schreiben; nur die dritte funktioniert'
+      learning: ['NodeJS', 'ReactJS'],
+      funFact: 'Es gibt zwei Möglichkeiten, fehlerfreie Programme zu schreiben; nur die dritte funktioniert!'
   };
 ```
 <br>
@@ -58,9 +57,10 @@
  <summary> 📕  <b>Public projects</b>: </summary>
 <br>
   <ul>
-    <li><b>Teamspeak Theme:</b> <a href="https://myteamspeak.com/addons/7e6e361a-1743-4dd1-8430-8162f0f77e8f">Grey</a> <b style="color: red;">UPDATE SOON</b></li>
-    <li><b>Roleplay HUD for</b> <a href="https://bigcityv.de">BigCity:V</a> GtaV Roleplay project: <a href="https://bigcityv.de">Website</a></li>
     <li><b>Website/Backend for</b> <a href="https://kaffeehaus-erbach.de">Kaffehaus Erbach</a>, Stil eines traditionellen Wiener Kaffeehauses: <a href="https://kaffeehaus-erbach.de">Website</a></li>
+    <li><b>Roleplay HUD for</b> <a href="https://bigcityv.de">BigCity:V</a> GtaV Roleplay project: <a href="https://bigcityv.de">Website</a></li>
+    <li><b>Elevtor-System for</b> <a href="https://bigcityv.de">BigCity:V</a></li>
+    <li><b>Emergency-Control-System for</b> <a href="https://bigcityv.de">BigCity:V</a> | offical repro: <i>SOON</i></li>
  </ul>
 </details>
 <br />
@@ -87,7 +87,7 @@
         <sub><b><a href="https://github.com/matthewrabiega">Matthew</a></b></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.mbdev.cc/cdn/github-sternenfotografie.jpg" width="100px;" alt="laura-christin"/><br/>
+      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.mbdev.cc/cdn/github-sternenfotografie.jpg" height="100px;" alt="laura-christin"/><br/>
         <sub><b><a href="https://www.instagram.com/lauras_stern_sternenfotografie/">Laura</a></b></sub><br />
         <a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
     </td>
@@ -99,7 +99,7 @@
 [![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
 
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
-> Made with ❤️ || V 1.0.1 <br>
+> Made with ❤️ || V 1.0.2 <br>
 
 <hr>
 
