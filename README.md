@@ -29,8 +29,8 @@
       },
       twitch: {
           stream: 'simulatormb',
-          mod: ['csruna', 'gaminghell_', 'proteinpinguin', 'lonoxx_'],
-          editor: ['csruna', 'proteinpinguin', 'lonoxx_'],
+          mod: ['gaminghell_', 'proteinpinguin', 'lonoxx_'],
+          editor: ['proteinpinguin', 'lonoxx_'],
       },
       organization: {
           dev_mb: 'Entwickler',
