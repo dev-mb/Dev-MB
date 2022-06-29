@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=50833616)
-[![Header](https://cdn.mbdev.cc/cdn/mb/banner.png "Header")](https://dev-mb.dev/)
+[![Header](https://cdn.mbdev.cc/mb/banner.png "Header")](https://dev-mb.dev/)
 
 <hr>
 
@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/dev-mb/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=compact&theme=dark"/>
 </a>
 
 <br>
@@ -87,7 +87,7 @@
         <sub><b><a href="https://github.com/matthewrabiega">Matthew</a></b></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.mbdev.cc/cdn/github-sternenfotografie.jpg" height="100px;" alt="laura-christin"/><br/>
+      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.mbdev.cc/github-sternenfotografie.jpg" height="100px;" alt="laura-christin"/><br/>
         <sub><b><a href="https://www.instagram.com/lauras_stern_sternenfotografie/">Laura</a></b></sub><br />
         <a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
     </td>
@@ -103,4 +103,4 @@
 
 <hr>
 
-© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg">
+© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/mb/logo.svg">
