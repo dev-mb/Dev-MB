@@ -103,4 +103,4 @@
 
 <hr>
 
-© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/mb/logo.svg">
+© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/page/logo.svg">
