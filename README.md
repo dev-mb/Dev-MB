@@ -11,44 +11,53 @@
 
 # Hello! 👋
 
-```javascript
+```js
   const dev_mb = {
-      pronouns: 'Er',
-      code: ['HTML5', 'CSS3', 'JS', 'PHP', 'CHSAHRP'],
-      askMeAbout: ['tech', 'web', 'dev', 'server', 'photography', 'videography', 'sound-technique', 'fire', 'rescue'],
-      technologies: {
-          web: {
-              base: 'HTML5',
-              style: ['CSS3', 'SASS', 'SCSS'],
-              backend: ['PHP', 'JS', 'jQuery'],
-          },
-          frameworks: ['Bootstrap', 'AdminLTE'],
-          ide: ['VSCode', 'VS'],
-          databases: ['mongoDB', 'MySql', 'mariaDB'],
-          misc: ['Discord', 'Spotify', 'Git', 'Adobe', 'TeamSpeak', 'Markdown', 'Bootstrap', 'Font Awesome']
-      },
-      twitch: {
-          stream: 'simulatormb',
-          mod: ['gaminghell_', 'proteinpinguin', 'lonoxx_'],
-          editor: ['proteinpinguin', 'lonoxx_'],
-      },
+      pronouns: ['he','er'],
+      askMeAbout: ['tech', 'dev', 'server', 'photography', 'videography', 'sound-technique', 'mechanic','rescue'],
       organization: {
-          dev_mb: 'Entwickler',
+          dev_mb: ['CEO','Entwickler'],
           panda_network: ['Projekt-Assistent', 'Developer'],
       },
-      learning: ['NodeJS', 'ReactJS'],
       funFact: 'Es gibt zwei Möglichkeiten, fehlerfreie Programme zu schreiben; nur die dritte funktioniert!'
   };
 ```
 <br>
 
-<a href="https://github.com/dev-mb/">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=dev-mb&theme=dark&count_private=true&include_all_commits=true" />
-</a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,mysql,cs">
+</div>
 
-<a href="https://github.com/dev-mb/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=compact&theme=dark"/>
-</a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,pr,ae,au,github,git">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white">
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">
+  
+</div>
+
+<br>
+<div align="center">
+  <a href="https://github.com/dev-mb/">
+    <img height="150rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-mb&theme=github_dark">
+  </a>
+
+  <a href="https://github.com/dev-mb/">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=compact&theme=github_dark">
+  </a>
+</div>
 
 <br>
 <br>
@@ -93,13 +102,12 @@
     </td>
   </tr>
 </table>
-
 </br>
 
 [![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
 
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
-> Made with ❤️ || V 1.0.2 <br>
+> Made with ❤️ || V 1.1.0 <br>
 
 <hr>
 
