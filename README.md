@@ -24,29 +24,36 @@
 ```
 <br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,mysql,cs">
-</div>
+<a href="https://github.com/dev-mb/">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,mysql,cs">
+  </div>
+</a>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,pr,ae,au,github,git">
-</div>
+<a href="https://github.com/dev-mb/">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,pr,ae,au,github,git">
+  </div>
+</a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-</div>
+<a href="https://github.com/dev-mb/">
+  <div align="center">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+  </div>
+</a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white">
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">
-  
-</div>
+<a href="https://github.com/dev-mb/">
+  <div align="center">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">
+  </div>
+</a>
 
 <br>
 <div align="center">
@@ -96,7 +103,7 @@
         <sub><b><a href="https://github.com/matthewrabiega">Matthew</a></b></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.mbdev.cc/github-sternenfotografie.jpg" height="100px;" alt="laura-christin"/><br/>
+      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.mbdev.cc/git/github-sternenfotografie.jpg" height="100px;" alt="laura-christin"/><br/>
         <sub><b><a href="https://www.instagram.com/lauras_stern_sternenfotografie/">Laura</a></b></sub><br />
         <a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
     </td>
@@ -107,7 +114,7 @@
 [![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
 
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
-> Made with ❤️ || V 1.1.0 <br>
+> Made with ❤️ || V 1.1.1 <br>
 
 <hr>
 
