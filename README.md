@@ -14,7 +14,7 @@
 ```js
   const dev_mb = {
       pronouns: ['he','er'],
-      askMeAbout: ['tech', 'dev', 'server', 'photography', 'videography', 'sound-technique', 'mechanic','rescue'],
+      askMeAbout: ['tech', 'dev', 'server', 'photography', 'videography', 'cyber', 'mechanic','rescue'],
       organization: {
           dev_mb: ['CEO','Entwickler'],
           panda_network: ['Projekt-Assistent', 'Developer'],
@@ -74,7 +74,7 @@
 <br>
   <ul>
     <li><b>Website/Backend for</b> <a href="https://kaffeehaus-erbach.de">Kaffehaus Erbach</a>, Stil eines traditionellen Wiener Kaffeehauses: <a href="https://kaffeehaus-erbach.de">Website</a></li>
-    <li><b>[OUTDATED] <a href="https://github.com/dev-mb/fivem-mlo_stream">altV-mlo_stream</a> for</b> <i>Everyone</i>, easy loading and streaming of buildings for alt:V server: <a href="https://fivem.net">FiveM Website</a></li>
+    <li><b>[OUTDATED] <a href="https://github.com/dev-mb/fivem-mlo_stream">fivem-mlo_stream</a> for</b> <i>Everyone</i>, easy loading and streaming of buildings for alt:V server: <a href="https://fivem.net">FiveM Website</a></li>
     <li><b><a href="https://github.com/dev-mb/altV-mlo_stream">altV-mlo_stream</a> for</b> <i>Everyone</i>, easy loading and streaming of buildings for alt:V server: <a href="https://altv.mp/">alt:V Website</a></li>
     <li><b>Lorem-Picsum</b> forked from <a href="https://github.com/LonoxX">LonoxX</a> and make the frontend | offical repro: <a href=https://github.com/LonoxX/Lorem-Picsum">Lorem-Picsum</a></li>
  </ul>
@@ -125,7 +125,7 @@
 [![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
 
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
-> Made with ❤️ || V 1.2.0 <br>
+> Made with ❤️ || V 1.2.1 <br>
 
 <hr>
 
