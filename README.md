@@ -73,10 +73,12 @@
  <summary> 📕  <b>Public projects</b>: </summary>
 <br>
   <ul>
+    <li><b>Portfolio Website for </b> @LonoxX, a friend and Backend-Developer <a href="https://lonoxx.me">Website</a></li>
+    <li><b>Roleplay HUD for</b> <a href="https://mountainv.de">Mountain:V</a>, Eleveator & more... | GTAV Roleplay project: <a href="https://mountainv.de">Website</a></li>
     <li><b>Website/Backend for</b> <a href="https://kaffeehaus-erbach.de">Kaffehaus Erbach</a>, Stil eines traditionellen Wiener Kaffeehauses: <a href="https://kaffeehaus-erbach.de">Website</a></li>
-    <li><b>[OUTDATED] <a href="https://github.com/dev-mb/fivem-mlo_stream">fivem-mlo_stream</a> for</b> <i>Everyone</i>, easy loading and streaming of buildings for alt:V server: <a href="https://fivem.net">FiveM Website</a></li>
     <li><b><a href="https://github.com/dev-mb/altV-mlo_stream">altV-mlo_stream</a> for</b> <i>Everyone</i>, easy loading and streaming of buildings for alt:V server: <a href="https://altv.mp/">alt:V Website</a></li>
     <li><b>Lorem-Picsum</b> forked from <a href="https://github.com/LonoxX">LonoxX</a> and make the frontend | offical repro: <a href=https://github.com/LonoxX/Lorem-Picsum">Lorem-Picsum</a></li>
+    <li><b>Emergency-Control-System 🚓🚑🚒 | offical repro: <i>SOON</i></li>
  </ul>
 </details>
 <br>
@@ -84,9 +86,8 @@
  <summary> 🔐  <b>closed Public projects</b>: </summary>
 <br>
   <ul>
-    <li><b>Roleplay HUD for</b> <a href="https://bigcityv.de">BigCity:V</a> GtaV Roleplay project: <a href="https://bigcityv.de">Website</a></li>
-    <li><b>Elevtor-System for</b> <a href="https://bigcityv.de">BigCity:V</a></li>
-    <li><b>Emergency-Control-System for</b> <a href="https://bigcityv.de">BigCity:V</a> | offical repro: <i>SOON</i></li>
+    <li><b>[OUTDATED] <a href="https://github.com/dev-mb/fivem-mlo_stream">fivem-mlo_stream</a> for</b> <i>Everyone</i>, easy loading and streaming of buildings for alt:V server: <a href="https://fivem.net">FiveM Website</a></li>
+    <li><b>Roleplay HUD for</b> <a href="https://bigcityv.de">BigCity:V</a>, Eleveator & more... | GTAV Roleplay project: <a href="https://bigcityv.de">Website</a></li>
  </ul>
 </details>
 <br />
@@ -125,7 +126,7 @@
 [![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
 
 > 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
-> Made with ❤️ || V 1.2.1 <br>
+> Made with ❤️ || V 1.2.2 <br>
 
 <hr>
 
