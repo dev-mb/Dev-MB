@@ -98,6 +98,17 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```all_time
+From: 21 July 2023 - To: 28 July 2023
+
+Total Time: 2 hrs 23 mins
+
+PHP             1 hr 12 mins    ███████████▒░░░░░░░░░░░░░   45.14 %
+Markdown        51 mins         ████████░░░░░░░░░░░░░░░░░   31.85 %
+Other           17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
