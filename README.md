@@ -1,133 +1,110 @@
 ![](https://hit.yhype.me/github/profile?user_id=50833616)
 [![Header](https://cdn.mbdev.cc/mb/banner.png "Header")](https://dev-mb.dev/)
 
-<hr>
-
-<a href="https://twitter.com/SimulatorMB" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-<a href="https://discord.com/users/301367379303333888" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
-<a href="https://codepen.io/dev-mb" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-<a href="https://paypal.me/simulatormb" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=whitee"/></a> 
+<code>
+  <div align="center">
+    Hi 👋
+    Welcome to my Github
+  </div>
+</code><br>
 <br>
 
-# Hello! 👋
+<div align="center">
+  <img src="https://lanyard.kyrie25.me/api/301367379303333888?hideTimestamp=true" height="180">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://github-spotify-readme-iolo4k7r1-dev-mb.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=true" height="180" alt="Current Spotify Song">
+</a>
+</div><br>
 
 ```js
   const dev_mb = {
       pronouns: ['he','er'],
-      askMeAbout: ['tech', 'dev', 'server', 'photography', 'videography', 'cyber', 'mechanic','rescue'],
+      askMeAbout: ['tech', 'developer', 'cyber', 'mechanic','rescue'],
       organization: {
-          dev_mb: ['CEO','Entwickler'],
+          dev_mb: ['FOUNDER','Dev'],
           panda_network: ['Projekt-Assistent', 'Developer'],
       },
       funFact: 'Es gibt zwei Möglichkeiten, fehlerfreie Programme zu schreiben; nur die dritte funktioniert!'
   };
 ```
-<br>
-
-<a href="https://github.com/dev-mb/">
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,mysql,cs">
-  </div>
-</a>
-
-<a href="https://github.com/dev-mb/">
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,pr,ae,au,github,git">
-  </div>
-</a>
-
-<a href="https://github.com/dev-mb/">
-  <div align="center">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-  </div>
-</a>
-
-<a href="https://github.com/dev-mb/">
-  <div align="center">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-    <img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white">
-    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">
-  </div>
-</a>
-
-<br>
+<br><br>
 <div align="center">
-  <a href="https://github.com/dev-mb/">
-    <img height="150rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-mb&theme=github_dark">
-  </a>
 
-  <a href="https://github.com/dev-mb/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devmb&layout=compact&theme=github_dark">
-  </a>
+  
+  <a href="https://discord.com/users/simulatormb"><img src="https://skillicons.dev/icons?i=discord" height="40" alt=""  /></a>
+  <img width="12" />
+  <a href="https://twitter.com/SimulatorMB"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt=""  /></a>
+  <img width="12" />
+  <a href="https://codepen.io/dev-mb"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt=""  /></a>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />  
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  
+
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
 </div>
 
-<br>
-<br>
+<br><br>
 
-<details open>
- <summary> 📕  <b>Public projects</b>: </summary>
-<br>
-  <ul>
-    <li><b>Portfolio Website for </b> <a href="https://github.com/LonoxX">@LonoxX</a>, a friend and Backend-Developer <a href="https://lonoxx.me">Website</a></li>
-    <li><b>Roleplay HUD for</b> <a href="https://mountainv.de">Mountain:V</a>, Eleveator & more... | GTAV Roleplay project: <a href="https://mountainv.de">Website</a></li>
-    <li><b>Website/Backend for</b> <a href="https://kaffeehaus-erbach.de">Kaffehaus Erbach</a>, Stil eines traditionellen Wiener Kaffeehauses: <a href="https://kaffeehaus-erbach.de">Website</a></li>
-    <li><b><a href="https://github.com/dev-mb/altV-mlo_stream">altV-mlo_stream</a> for</b> <i>Everyone</i>, easy loading and streaming of buildings for alt:V server: <a href="https://altv.mp/">alt:V Website</a></li>
-    <li><b>Lorem-Picsum</b> forked from <a href="https://github.com/LonoxX">LonoxX</a> and make the frontend | offical repro: <a href=https://github.com/LonoxX/Lorem-Picsum">Lorem-Picsum</a></li>
-    <li><b>Emergency-Control-System 🚓🚑🚒 | offical repro: <i>SOON</i></li>
- </ul>
-</details>
-<br>
-<details>
- <summary> 🔐  <b>closed Public projects</b>: </summary>
-<br>
-  <ul>
-    <li><b>[OUTDATED] <a href="https://github.com/dev-mb/fivem-mlo_stream">fivem-mlo_stream</a> for</b> <i>Everyone</i>, easy loading and streaming of buildings for alt:V server: <a href="https://fivem.net">FiveM Website</a></li>
-    <li><b>Roleplay HUD for</b> <a href="https://bigcityv.de">BigCity:V</a>, Eleveator & more... | GTAV Roleplay project: <a href="https://bigcityv.de">Website</a></li>
- </ul>
-</details>
-<br />
-<br />
+<div align="center"> 
+<img src="https://metrics.lecoq.io/dev-mb?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBerlin" height="350" alt="">
+<img src="https://raw.githubusercontent.com/dev-mb/Dev-MB/main/profile-3d-contrib/profile-night-rainbow.svg" height="350" alt="">
+</div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-## 👾 Friends
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX"/></a><br/>
-        <sub><b><a href="https://github.com/LonoxX">LonoxX</a></b></sub><br /><a href="https://panda-network.de">Panda-Network.de</a></br><small>Backend Developer</small>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NoelBank"><img src="https://avatars.githubusercontent.com/u/24194246?v=4" width="100px;" alt="NoelBank"/><br/>
-        <sub><b><a href="https://github.com/NoelBank">Noel</a></b></sub><br /><a href="https://nbank.dev">NBank.dev</a></br><small>Application Developer</small>
-    </td>
-    <td align="center">
-      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" alt="CSRuna"/><br/>
-        <sub><b><a href="https://github.com/csruna">Runa</a></b></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
-    </td>
-    <td align="center">
-      <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
-        <sub><b><a href="https://github.com/matthewrabiega">Matthew</a></b></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.mbdev.cc/git/github-sternenfotografie.jpg" height="100px;" alt="laura-christin"/><br/>
-        <sub><b><a href="https://www.instagram.com/lauras_stern_sternenfotografie/">Laura</a></b></sub><br />
-        <a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
-    </td>
-  </tr>
-</table>
-</br>
-
-[![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
-
-> 📧&nbsp; Contact: <a href="mailto:pager@dev-mb.dev">pager@dev-mb.dev</a><br>
-> Made with ❤️ || V 1.2.3 <br>
+###
 
 <hr>
 
+[![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
+
+<code>Made with ❤️ || V 2.0</code>
 © <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/page/logo.svg">
