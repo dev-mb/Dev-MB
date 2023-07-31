@@ -3,8 +3,8 @@
 
 <code>
   <div align="center">
-    Hi 👋
-    Welcome to my Github
+  Hi 👋
+  Welcome to my Github
   </div>
 </code><br>
 <br>

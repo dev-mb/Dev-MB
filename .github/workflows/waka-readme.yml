@@ -11,27 +11,10 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
             #  GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # meta
-          API_BASE_URL: https://wakatime.com/api
-          # REPOSITORY: dev-mb/Dev-MB
-          # content
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ░▒▓█
-          CODE_LANG: all_time 
-          TIME_RANGE: true
-          LANG_COUNT: 10
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
-          # commit
-          COMMIT_MESSAGE: waka generated
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: github-actions
-          COMMITTER_EMAIL: github-actions@github.org
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          
