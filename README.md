@@ -100,14 +100,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 22 July 2023 - To: 29 July 2023
+From: 23 July 2023 - To: 30 July 2023
 
-Total Time: 3 hrs 42 mins
+Total Time: 8 hrs 15 mins
 
-Markdown     1 hr 32 mins    █████████░░░░░░░░░░░░░░░░   35.81 %
-SCSS         42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-YAML         39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-Other        34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+SCSS         4 hrs 24 mins   ████████████▒░░░░░░░░░░░░   49.97 %
+Markdown     1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+HTML         1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+YAML         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Other        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 ```
 
 <!--END_SECTION:waka-->
