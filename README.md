@@ -100,13 +100,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 July 2023 - To: 28 July 2023
+From: 22 July 2023 - To: 29 July 2023
 
-Total Time: 2 hrs 23 mins
+Total Time: 3 hrs 42 mins
 
-PHP             1 hr 12 mins    ███████████▒░░░░░░░░░░░░░   45.14 %
-Markdown        51 mins         ████████░░░░░░░░░░░░░░░░░   31.85 %
-Other           17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Markdown     1 hr 32 mins    █████████░░░░░░░░░░░░░░░░   35.81 %
+SCSS         42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+YAML         39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Other        34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
 ```
 
 <!--END_SECTION:waka-->
