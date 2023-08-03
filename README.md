@@ -10,9 +10,9 @@
 <br>
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/301367379303333888?hideTimestamp=true" height="180">
+  <img src="https://lanyard.kyrie25.me/api/301367379303333888?hideTimestamp=true" height="140">
   <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://github-spotify-readme-iolo4k7r1-dev-mb.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=true" height="180" alt="Current Spotify Song">
+  <img src="https://github-spotify-readme-iolo4k7r1-dev-mb.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=true" height="140" alt="Current Spotify Song">
 </a>
 </div><br>
 
@@ -93,8 +93,8 @@
 <br><br>
 
 <div align="center"> 
-<img src="https://metrics.lecoq.io/dev-mb?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBerlin" height="350" alt="">
-<img src="https://raw.githubusercontent.com/dev-mb/Dev-MB/main/profile-3d-contrib/profile-night-rainbow.svg" height="350" alt="">
+<img src="https://metrics.lecoq.io/dev-mb?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBerlin" height="255" alt="">
+<img src="https://raw.githubusercontent.com/dev-mb/Dev-MB/main/profile-3d-contrib/profile-night-rainbow.svg" height="255" alt="">
 </div>
 
 <!--START_SECTION:waka-->
@@ -119,5 +119,5 @@ Other        37 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
 
-<code>Made with ❤️ || V 2.0</code>
+<code>Made with ❤️ || V 2.1</code>
 © <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.mbdev.cc/page/logo.svg">
