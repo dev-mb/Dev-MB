@@ -100,14 +100,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 August 2023 - To: 17 August 2023
+From: 12 August 2023 - To: 19 August 2023
 
-Total Time: 2 hrs 39 mins
+Total Time: 0 secs
 
-Bash       2 hrs 2 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.89 %
-Markdown   22 mins         ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.93 %
-JSON       14 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.61 %
-Other      4 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
