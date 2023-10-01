@@ -100,12 +100,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 September 2023 - To: 28 September 2023
+From: 23 September 2023 - To: 30 September 2023
 
-Total Time: 1 hr 19 mins
+Total Time: 1 hr 17 mins
 
-Bash              47 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.00 %
-Other             31 mins         ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.67 %
+Bash              47 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.66 %
+Other             43 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.98 %
 ```
 
 <!--END_SECTION:waka-->
