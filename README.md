@@ -100,11 +100,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
-Total Time: 1 hr 9 mins
+Total Time: 1 hr 20 mins
 
-Other           39 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.37 %
+Other           40 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.44 %
 ```
 
 <!--END_SECTION:waka-->
