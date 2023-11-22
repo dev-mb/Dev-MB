@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=50833616)
-[![Header](https://cdn.mbdev.cc/mb/banner.png "Header")](https://dev-mb.dev/)
+[![Header](https://cdn.devmb.app/mb/banner.png "Header")](https://dev-mb.dev/)
 
 <code>
   <div align="center">
@@ -115,7 +115,7 @@ Other        29 mins         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <hr>
 
-[![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://mbdev.cc/github)
+[![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://devmb.app/github)
 
 <code>Made with ❤️ || V 2.1</code>
 © <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.devmb.app/page/logo.svg">
