@@ -100,12 +100,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Total Time: 1 hr 17 mins
+Total Time: 0 secs
 
-SCSS   54 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀   70.22 %
-HTML   23 mins         ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
