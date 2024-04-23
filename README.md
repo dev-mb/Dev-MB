@@ -100,14 +100,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 April 2024 - To: 21 April 2024
+From: 15 April 2024 - To: 22 April 2024
 
-Total Time: 3 hrs 27 mins
+Total Time: 4 hrs 5 mins
 
-SCSS         1 hr 53 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.88 %
-HTML         1 hr 18 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.63 %
-Git Config   10 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.09 %
-JavaScript   4 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.40 %
+SCSS         2 hrs 18 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.41 %
+HTML         1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.26 %
+Git Config   10 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.31 %
+JavaScript   4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.03 %
 ```
 
 <!--END_SECTION:waka-->
