@@ -81,7 +81,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <<img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
 </div>
 
