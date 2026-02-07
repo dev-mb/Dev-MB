@@ -1,122 +1,164 @@
-![](https://hit.yhype.me/github/profile?user_id=50833616)
-[![Header](https://cdn.devmb.app/mb/banner.png "Header")](https://dev-mb.dev/)
+<div align="center">
+  
+  ![](https://hit.yhype.me/github/profile?user_id=50833616)
+  
+  [![Header](https://cdn.devmb.app/mb/banner.png)](https://dev-mb.dev/)
+  
+  # Hi 👋, I'm Moritz Bahrmann
+  
+  ### Full-Stack Developer | IT Services | Pyro FX | Drone Specialist
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moritz-bahrmann/)
+  [![Website](https://img.shields.io/badge/Website-Visit-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://dev-mb.dev/)  
+  <br>
+  
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img src="https://github-spotify-readme-iolo4k7r1-dev-mb.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=true" height="140" alt="Current Spotify Song">
+  </a>
+  
+</div>
 
-<code>
-  <div align="center">
-  Hi 👋
-  Welcome to my Github
-  </div>
-</code><br>
+<br>
 <br>
 
-<div align="center">
-  <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://github-spotify-readme-iolo4k7r1-dev-mb.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=true" height="140" alt="Current Spotify Song">
-  </a>
-</div><br>
+## 🚀 About Me
 
-```js
-  const dev_mb = {
-      pronouns: ['he','er'],
-      info: 'Bei Technik Fragen, Dev-MB fragen.'
-      interests: ['Tech', 'Development', 'Cybersecurity', 'Mechanics', 'Rescue'],
-      roles: [
-        { organization: 'dev-mb', positions: ['Founder', 'Developer'] },
-        { organization: 'panda_network', positions: ['Projekt-Assistent', 'Developer'] }
-      ],
-      funFact: 'Es gibt zwei Möglichkeiten, fehlerfreie Programme zu schreiben; nur die dritte funktioniert!'
-  };
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Quick Info
+
+```typescript
+const dev_mb = {
+  name: "Moritz Bahrmann",
+  pronouns: ["he", "er"],
+  tagline: "Bei Technik Fragen, Dev-MB fragen."
+};
 ```
-<br><br>
+
+**🎯 Current Focus:**
+- Next.js Applications
+- TypeScript Development
+- Emergency Services Software
+
+**🎭 Fun Fact:**  
+*Es gibt zwei Möglichkeiten, fehlerfreie Programme zu schreiben; nur die dritte funktioniert!*
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 Interests & Roles
+
+**💡 Interests:**
+- Tech & Development
+- Cybersecurity
+- Mechanics
+- Rescue Services
+
+**🏢 Organizations:**
+- **dev-mb** - Founder & Developer
+- **Panda Network** - Project Assistant & Developer
+
+**🔧 Services:**
+- IT Solutions
+- 3D Design & Visualization
+- Drone Services
+- Pyro FX
+- Web Development
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💻 Tech Stack
+
 <div align="center">
 
-  
-  <a href="https://discord.com/users/simulatormb"><img src="https://skillicons.dev/icons?i=discord" height="40" alt=""  /></a>
-  <img width="12" />
-  <a href="https://twitter.com/SimulatorMB"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt=""  /></a>
-  <img width="12" />
-  <a href="https://codepen.io/dev-mb"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt=""  /></a>
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="40" alt="android logo"  />
-  <img width="12" />
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />  
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
-  <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/RPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+**Design & Creative**  
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+
 </div>
 
-<br><br>
 
-<div align="center"> 
-<img src="https://metrics.lecoq.io/dev-mb?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBerlin" height="255" alt="">
-<img src="https://raw.githubusercontent.com/dev-mb/Dev-MB/main/profile-3d-contrib/profile-night-rainbow.svg" height="255" alt="">
-</div>
+## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 October 2025 - To: 27 October 2025
+From: 29 January 2026 - To: 05 February 2026
 
-Total Time: 12 hrs 3 mins
+Total Time: 6 hrs 26 mins
 
-TypeScript   6 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.79 %
-Markdown     1 hr 13 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.82 %
-Lua          1 hr 5 mins     ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.80 %
-PHP          1 hr 2 mins     ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.41 %
-CSS          42 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.73 %
-Bash         38 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.14 %
-Prisma       29 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.97 %
-JavaScript   25 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.47 %
-Other        22 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.02 %
+TypeScript   4 hrs 4 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.74 %
+CSS          30 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.95 %
+Lua          29 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.49 %
+Markdown     25 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.50 %
+JavaScript   25 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.47 %
+Bash         22 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.85 %
+JSON         3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.78 %
+Other        3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.77 %
 ```
 
 <!--END_SECTION:waka-->
 
-###
+<br>
 
-<hr>
+## 📊 GitHub Activity
 
-[![](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=333333)](https://devmb.app/github)
+<div align="center">
 
-<code>Made with ❤️ || V 2.2</code>
-© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="16px" src="https://cdn.devmb.app/page/logo.svg">
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/dev-mb/Dev-MB/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%">
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  ![Profile Views](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=blueviolet)
+  
+  **Made with 💻 and ☕**  
+  *V 3.0*
+  
+  © 2026 [**dev-mb.dev**](https://dev-mb.dev) • All rights reserved
+  
+</div>

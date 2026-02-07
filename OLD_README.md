@@ -106,19 +106,6 @@
       <a href="https://github.com/NoelBank"><img src="https://avatars.githubusercontent.com/u/24194246?v=4" width="100px;" alt="NoelBank"/><br/>
         <sub><b><a href="https://github.com/NoelBank">Noel</a></b></sub><br /><a href="https://nbank.dev">NBank.dev</a></br><small>Application Developer</small>
     </td>
-    <td align="center">
-      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" alt="CSRuna"/><br/>
-        <sub><b><a href="https://github.com/csruna">Runa</a></b></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
-    </td>
-    <td align="center">
-      <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="matthewrabiega"/><br/>
-        <sub><b><a href="https://github.com/matthewrabiega">Matthew</a></b></sub><br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a></br><small>Foto- & Videograf</small>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/lauras_stern_sternenfotografie/"><img src="https://cdn.mbdev.cc/git/github-sternenfotografie.jpg" height="100px;" alt="laura-christin"/><br/>
-        <sub><b><a href="https://www.instagram.com/lauras_stern_sternenfotografie/">Laura</a></b></sub><br />
-        <a href="https://sternenfotografie.weebly.com">Sternenfotografie...</a></br><small>Fotografin<small>
-    </td>
   </tr>
 </table>
 </br>
