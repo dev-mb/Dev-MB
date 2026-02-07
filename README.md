@@ -154,6 +154,9 @@ Other        3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div align="center">
   
   ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  <br>
+
   ![Profile Views](https://komarev.com/ghpvc/?style=flat-square&username=dev-mb&color=blueviolet)
   
   **Made with 💻 and ☕**  
