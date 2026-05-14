@@ -120,12 +120,11 @@ const dev_mb = {
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 May 2026 - To: 11 May 2026
+From: 05 May 2026 - To: 12 May 2026
 
 Total Time: 0 secs
 
-Unity3D Asset   0 secs                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.51 %
-Lua             0 secs                ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
